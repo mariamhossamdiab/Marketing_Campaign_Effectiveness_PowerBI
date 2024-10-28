@@ -1,11 +1,10 @@
 # Marketing_Campaign_Effectiveness_PowerBI
 Anjum Hotel has been running various marketing campaigns to increase room bookings and enhance brand visibility.Despite investing significantly in these campaigns,the hotel management is unsure which channels yield the highest return on investment (ROI) and which campaign strategies are most effective. They want to optimize their marketing spend and maximize bookings and revenue.
-![image](https://github.com/user-attachments/assets/503163fc-b187-4ce7-9773-15478015d695)
 
-![image](https://github.com/user-attachments/assets/4db78629-6cab-4da9-8c48-7bdcffaedb5f)
-![image](https://github.com/user-attachments/assets/87f660dc-9861-4ce8-b0f5-cb9b08d37603)
-![image](https://github.com/user-attachments/assets/e6f62750-11e9-4b7c-9c58-a272a679d20f)
-![image](https://github.com/user-attachments/assets/8506fb41-198f-4efc-9841-5431edefd0f1)
-![image](https://github.com/user-attachments/assets/040af838-bc8d-4881-8e79-0a901901ba90)
-![image](https://github.com/user-attachments/assets/ee013a75-a312-4cdc-8ee9-cc321f7d8f1b)
+![overview](https://github.com/user-attachments/assets/8e10b263-2121-4101-b0f1-b6de9d95b823)
 
+![campaign revenue vs cost](https://github.com/user-attachments/assets/bf62831c-7118-4d3d-86c6-131131b41919)
+![Comparison](https://github.com/user-attachments/assets/844f7df4-a703-4d30-8751-b5a58f07713a)
+![Profit by channel   audience](https://github.com/user-attachments/assets/01d373d5-fe4d-418b-93af-38dfde48dc4b)
+![profit by time](https://github.com/user-attachments/assets/256390a5-387c-4864-9b5e-ff7769f3d5b0)
+![Target Audience by channel ](https://github.com/user-attachments/assets/8ed4be38-dc56-4994-9215-97dc1d155752)
